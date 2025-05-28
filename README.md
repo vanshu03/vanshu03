@@ -4,11 +4,11 @@
 ## About Me  
 I'm a passionate **AI & Data Science** 3rd-year student who loves **coding, problem-solving, and data-driven insights**. I enjoy working with various technologies and constantly learning new things.  
 
-- 🌱 I’m currently **learning OOPs & DSA with Python**.  
-- 👯 I’m looking to **collaborate on open-source data analytics and ML projects**.  
+- 🌱 I’m currently **learning OOPs & DSA with C++**.  
+- 👯 I’m looking to **collaborate on open-source data analytics projects**.  
 - 💬 Ask me about **SQL, Power BI, Python, Data Visualization**.  
 - 📧 How to reach me: [kd892646@gmail.com](mailto:kd892646@gmail.com)  
-- ⚡ Fun fact: I enjoy **traveling & embroidery** in my free time!  
+- ⚡ Fun fact: I enjoy **traveling,Painting & embroidery** in my free time!  
 
 ---
 
