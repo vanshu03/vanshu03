@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there, I'm Vanshika...SDE Intern @Philips</h1>  
-<h3 align="center">A passionate Data Analyst and software developer from India</h3>
+<h1 align="center"> Hi there, I'm Vanshika</h1>  
+<h3 align="center">SDE Intern @Philips India</h3>
 
 ## About Me  
 I'm a passionate **AI & Data Science** last-year student who loves **coding, problem-solving, and data-driven insights**. I enjoy working with various technologies and constantly learning new things.  
